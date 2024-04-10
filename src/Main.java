@@ -5,7 +5,7 @@ public class Main {
         System.out.println("hola mundo");
         System.out.println("adios");
         System.out.println("que tal?");
-        System.out.println("BUENAS");
+        System.out.println("ADIOS");
 
     }
 }
